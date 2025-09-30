@@ -1,7 +1,7 @@
 # Basic Python Guide
 
 - [Data Types](docs/DataTypes.md)
-- [Functions](Functions.md)
-- [Loops and statements](Loops_and_statements.md)
-- [File Handling](FileHandling.md)
-- [Classes and objects](Classes.md)
+- [Functions](docs/Functions.md)
+- [Loops and statements](docs/Loops_and_statements.md)
+- [File Handling](docs/FileHandling.md)
+- [Classes and objects](docs/Classes.md)
