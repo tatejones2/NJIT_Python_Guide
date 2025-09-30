@@ -1,5 +1,5 @@
-This is a read me file.
+# Basic Python Guide
 
-x = 5
-for i in range(x):
-print(i)
+- [Data Types](docs/DataTypes.md)
+- [Functions](Functions.md)
+- [Loops and statements](Loops_and_statements.md)
