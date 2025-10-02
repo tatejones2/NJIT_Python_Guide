@@ -28,7 +28,8 @@ False
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 words = ["I'm", "an", "array"]
 
-words[2] = "and" # counting starts from 0
+# Getting an element by index
+words[1] = "an" # counting starts from 0
 ```
 
 ### List
@@ -50,5 +51,6 @@ my_dict = {"key": "value"}
 
 people = {"name": "John"}
 ```
+
 
 
