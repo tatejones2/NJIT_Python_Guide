@@ -7,7 +7,7 @@
 
 ### String
 ```python
-"My name is Brendan Opat."
+"Chicken jockey"
 "6 7"
 ```
 
@@ -26,7 +26,7 @@ False
 ### Array
 ```python
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-words = ["I'm", "Opat", "and", "I'm", "gay"]
+words = ["I'm", "an", "array"]
 
 words[2] = "and" # counting starts from 0
 ```
@@ -40,8 +40,8 @@ my_list = list()
 my_list.append(item)
 
 # Examples
-my_list.append("Tate")
-my_list.append("Jones")
+my_list.append("apples")
+my_list.append("oranges")
 ```
 
 ### Dictionary
@@ -50,4 +50,5 @@ my_dict = {"key": "value"}
 
 people = {"name": "John"}
 ```
+
 
